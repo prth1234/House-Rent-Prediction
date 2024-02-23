@@ -9,7 +9,6 @@
 **Department of Computer Science & Engineering**
 
 ### Submitted by
-**Batch No:** [Batch Number]
 
 | 3    | Parth Singh          | PES2UG20CS914 |
 
