@@ -9,8 +9,7 @@
 **Department of Computer Science & Engineering**
 
 ### Submitted by
-
-| 3    | Parth Singh          | PES2UG20CS914 |
+Parth Singh          |         PES2UG20CS914 
 
 **PES University**  
 (Established under Karnataka Act No. 16 of 2013)  
