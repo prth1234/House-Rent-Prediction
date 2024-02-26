@@ -33,7 +33,7 @@ The project follows a structured methodology that includes:
 4. **Evaluation:** Comparing algorithm performance using various evaluation metrics to identify the most accurate model for house rent prediction.
 
 ### References
-<br> Paper1: 
+Paper1: 
 https://www.researchgate.net/publication/349227005_Predicting_the_rental_value_of_houses_in_household_surveys_in_Tanzania_Uganda_and_Malawi_Evaluations_of_hedonic_pricing_and_machine_learning_approaches
 <br> Paper 2:
 (PDF) Housing Price Prediction via Improved Machine Learning Techniques (researchgate.net)
