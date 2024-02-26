@@ -33,18 +33,17 @@ The project follows a structured methodology that includes:
 4. **Evaluation:** Comparing algorithm performance using various evaluation metrics to identify the most accurate model for house rent prediction.
 
 ### References
-
-Paper1: 
+<br> Paper1: 
 https://www.researchgate.net/publication/349227005_Predicting_the_rental_value_of_houses_in_household_surveys_in_Tanzania_Uganda_and_Malawi_Evaluations_of_hedonic_pricing_and_machine_learning_approaches
-Paper 2:
+<br> Paper 2:
 (PDF) Housing Price Prediction via Improved Machine Learning Techniques (researchgate.net)
-Paper 3:
+<br> Paper 3:
+<br> Monitoring housing rental prices based on social media:An integrated approach of machine-learning algorithms and hedonic modeling to inform equitable housing policies - ScienceDirect
+<br> Paper 4:
 Monitoring housing rental prices based on social media:An integrated approach of machine-learning algorithms and hedonic modeling to inform equitable housing policies - ScienceDirect
-Paper 4:
-Monitoring housing rental prices based on social media:An integrated approach of machine-learning algorithms and hedonic modeling to inform equitable housing policies - ScienceDirect
-Paper 5:
+<br> Paper 5:
 https://paperswithcode.com/paper/house-price-prediction-using-lstm
-Paper 6:
+<br> Paper 6:
 (PDF) House Price Prediction Using Random Forest Machine Learning Technique. (sciencedirect.com)
 
 ## Dataset used :
